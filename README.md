@@ -1,2 +1,2 @@
 # vp9_cuda_encoder
-Make vp9 encoder acceleration using CUDA parallel programming
+Make vp9 encoder acceleration using CUDA parallel programming. vp8 is working...
